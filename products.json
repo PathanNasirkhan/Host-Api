@@ -1,0 +1,65 @@
+[
+    {
+        "src" : "https://m.media-amazon.com/images/M/MV5BNjQwODBiOGEtZDUwNC00NDc4LWIyOWQtYjUzN2VlMTJlZjFkXkEyXkFqcGdeQXVyNzEzMDQwNjk@._V1_.jpg",
+        "name" : "CHAL JEEVI LAIYE",
+        "date" : "1 February 2019" ,
+        "dname" : "Vipul Mehta" ,
+        "category" : "DRAMA",
+        "language" : "GUJRATI",
+        "tailer" : "https://www.youtube.com/watch?v=y1NoFZPVTr0"
+    },
+    {
+        "src" : "https://wallpaperaccess.com/continue.png",
+        "name" : "TANAJI",
+        "date" : "10 January 2020" ,
+        "dname" : "Om Raut" ,
+        "category" : "HISTORICAL",
+        "language" : "HINDI",
+        "tailer" : "https://www.youtube.com/watch?v=cffAGIYTEHU"
+    },
+    {
+        "src" : "https://w0.peakpx.com/wallpaper/967/417/HD-wallpaper-brahmastra-part-one-shiva-2022-brahm%C4%81stra-thumbnail.jpg",
+        "name" : "BRAHMASTRA",
+        "date" : "9 September 2022" ,
+        "dname" : "Ayan Mukerji" ,
+        "category" : "ROMENTIC",
+        "language" : "HINDI",
+        "tailer" : "https://www.youtube.com/watch?v=aBtnvjSb25M"
+    },
+    {
+        "src" : "https://www.bollywoodhungama.com/wp-content/uploads/2022/11/Pathaan-5.jpg",
+        "name" : "PATHAN",
+        "date" : "25 January 2023" ,
+        "dname" : "Siddharth Anand" ,
+        "category" : "ACTION",
+        "language" : "HINDI",
+        "tailer" : "https://www.youtube.com/watch?v=nDHsBUbivz8"
+    },
+    {
+        "src" : "https://stat4.bollywoodhungama.in/wp-content/uploads/2020/10/Cirkus1-3-306x393.jpg",
+        "name" : "CIRCUSE",
+        "date" : "23 December 2022" ,
+        "dname" : "ROHITSHETTY" ,
+        "category" : "COMEDY",
+        "language" : "HINDI",
+        "tailer" : "https://www.youtube.com/watch?v=EkzD0d0yFdM"
+    },
+    {
+        "src" : "https://deadline.com/wp-content/uploads/2022/09/Wednesday-addams.jpg?w=681&h=383&crop=1",
+        "name" : "WEDNESDAY",
+        "date" : "23 November 2022",
+        "dname" : "Tim Burton" ,
+        "category" : "COMEDY",
+        "language" : "ENGLISH",
+        "tailer" : "https://www.youtube.com/watch?v=w54rndswqA0"
+    },
+    {
+        "src" : "https://stat4.bollywoodhungama.in/wp-content/uploads/2019/03/RRR-2022.jpeg",
+        "name" : "RRR",
+        "date" : "24 March 2022" ,
+        "dname" : "S. S. Rajamouli" ,
+        "category" : "ACTION",
+        "language" : "HINDI",
+        "tailer" : "https://www.youtube.com/watch?v=f_vbAtFSEc0"
+    }
+]
