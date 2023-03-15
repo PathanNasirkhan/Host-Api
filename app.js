@@ -4,11 +4,11 @@ const app = express();
 const connectDB = require("./db/connect")
 const port =process.env.PORT || 8000;
 const products_routes = require("./routes/product");
+const cors = require("cors");
 
-app.use((req, res, next) => {
-  res.setHeader('Access-Control-Allow-Origin', 'http://localhost:3000');
-  next();
-});
+app.use(cors());
+
+
 
 app.get("/",(req,res)=>{
   res.send("hi i am live");
