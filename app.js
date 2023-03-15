@@ -5,11 +5,28 @@ const connectDB = require("./db/connect")
 const port =process.env.PORT || 8000;
 const products_routes = require("./routes/product");
 
+
+
+
+
+app.use((req, res, next) => {
+  res.setHeader('Access-Control-Allow-Origin', 'http://localhost:3000');
+  next();
+});
+
+// Other routes and middleware
+
+app.listen(3000, () => {
+  console.log('Server is running on port 3000');
+});
+
+
 app.get("/",(req,res)=>{
   res.send("hi i am live");
 });
 
   //  middleware or to set router
+
 
   app.use("/api/products",products_routes);
 
